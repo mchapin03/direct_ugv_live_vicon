@@ -1,0 +1,6 @@
+/home/gwcs/ros2_ws/install/roboclaw_serial/include/roboclaw_serial/command.hpp
+/home/gwcs/ros2_ws/install/roboclaw_serial/include/roboclaw_serial/device.hpp
+/home/gwcs/ros2_ws/install/roboclaw_serial/include/roboclaw_serial/interface.hpp
+/home/gwcs/ros2_ws/install/roboclaw_serial/include/roboclaw_serial/crc.hpp
+/home/gwcs/ros2_ws/install/roboclaw_serial/include/roboclaw_serial/serialized_buffer.hpp
+/home/gwcs/ros2_ws/install/roboclaw_serial/lib/cmake/roboclaw_serial/roboclaw_serialConfig.cmake

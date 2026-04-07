@@ -1,0 +1,25 @@
+[0.042s] Invoking command in '/home/gwcs/ros2_ws/build/pose_to_odom': CMAKE_PREFIX_PATH=/home/gwcs/ros2_ws/install/vicon_pkg:/opt/ros/humble:${CMAKE_PREFIX_PATH} /usr/bin/cmake --build /home/gwcs/ros2_ws/build/pose_to_odom -- -j6 -l6
+[0.108s] [ 50%] [32mBuilding CXX object CMakeFiles/pose_to_odom_node.dir/pose_to_odom_no_twist.cpp.o[0m
+[17.614s] [100%] [1m[32mLinking CXX executable pose_to_odom_node[0m
+[18.578s] [100%] Built target pose_to_odom_node
+[18.594s] Invoked command in '/home/gwcs/ros2_ws/build/pose_to_odom' returned '0': CMAKE_PREFIX_PATH=/home/gwcs/ros2_ws/install/vicon_pkg:/opt/ros/humble:${CMAKE_PREFIX_PATH} /usr/bin/cmake --build /home/gwcs/ros2_ws/build/pose_to_odom -- -j6 -l6
+[18.601s] Invoking command in '/home/gwcs/ros2_ws/build/pose_to_odom': CMAKE_PREFIX_PATH=/home/gwcs/ros2_ws/install/vicon_pkg:/opt/ros/humble:${CMAKE_PREFIX_PATH} /usr/bin/cmake --install /home/gwcs/ros2_ws/build/pose_to_odom
+[18.608s] -- Install configuration: ""
+[18.609s] -- Installing: /home/gwcs/ros2_ws/install/pose_to_odom/lib/pose_to_odom/pose_to_odom_node
+[18.618s] -- Set non-toolchain portion of runtime path of "/home/gwcs/ros2_ws/install/pose_to_odom/lib/pose_to_odom/pose_to_odom_node" to ""
+[18.619s] -- Installing: /home/gwcs/ros2_ws/install/pose_to_odom/share/ament_index/resource_index/package_run_dependencies/pose_to_odom
+[18.619s] -- Installing: /home/gwcs/ros2_ws/install/pose_to_odom/share/ament_index/resource_index/parent_prefix_path/pose_to_odom
+[18.619s] -- Installing: /home/gwcs/ros2_ws/install/pose_to_odom/share/pose_to_odom/environment/ament_prefix_path.sh
+[18.620s] -- Installing: /home/gwcs/ros2_ws/install/pose_to_odom/share/pose_to_odom/environment/ament_prefix_path.dsv
+[18.620s] -- Installing: /home/gwcs/ros2_ws/install/pose_to_odom/share/pose_to_odom/environment/path.sh
+[18.620s] -- Installing: /home/gwcs/ros2_ws/install/pose_to_odom/share/pose_to_odom/environment/path.dsv
+[18.621s] -- Installing: /home/gwcs/ros2_ws/install/pose_to_odom/share/pose_to_odom/local_setup.bash
+[18.621s] -- Installing: /home/gwcs/ros2_ws/install/pose_to_odom/share/pose_to_odom/local_setup.sh
+[18.621s] -- Installing: /home/gwcs/ros2_ws/install/pose_to_odom/share/pose_to_odom/local_setup.zsh
+[18.622s] -- Installing: /home/gwcs/ros2_ws/install/pose_to_odom/share/pose_to_odom/local_setup.dsv
+[18.622s] -- Up-to-date: /home/gwcs/ros2_ws/install/pose_to_odom/share/pose_to_odom/package.dsv
+[18.622s] -- Installing: /home/gwcs/ros2_ws/install/pose_to_odom/share/ament_index/resource_index/packages/pose_to_odom
+[18.622s] -- Installing: /home/gwcs/ros2_ws/install/pose_to_odom/share/pose_to_odom/cmake/pose_to_odomConfig.cmake
+[18.623s] -- Installing: /home/gwcs/ros2_ws/install/pose_to_odom/share/pose_to_odom/cmake/pose_to_odomConfig-version.cmake
+[18.623s] -- Installing: /home/gwcs/ros2_ws/install/pose_to_odom/share/pose_to_odom/package.xml
+[18.628s] Invoked command in '/home/gwcs/ros2_ws/build/pose_to_odom' returned '0': CMAKE_PREFIX_PATH=/home/gwcs/ros2_ws/install/vicon_pkg:/opt/ros/humble:${CMAKE_PREFIX_PATH} /usr/bin/cmake --install /home/gwcs/ros2_ws/build/pose_to_odom

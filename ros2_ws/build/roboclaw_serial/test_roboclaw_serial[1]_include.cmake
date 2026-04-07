@@ -1,0 +1,5 @@
+if(EXISTS "/home/gwcs/ros2_ws/build/roboclaw_serial/test_roboclaw_serial[1]_tests.cmake")
+  include("/home/gwcs/ros2_ws/build/roboclaw_serial/test_roboclaw_serial[1]_tests.cmake")
+else()
+  add_test(test_roboclaw_serial_NOT_BUILT test_roboclaw_serial_NOT_BUILT)
+endif()

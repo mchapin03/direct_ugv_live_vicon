@@ -1,0 +1,4 @@
+Invoking command in '/home/gwcs/ros2_ws/build/pose_to_odom': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/gwcs/ros2_ws/src/pose_to_odom -DCMAKE_INSTALL_PREFIX=/home/gwcs/ros2_ws/install/pose_to_odom
+Invoked command in '/home/gwcs/ros2_ws/build/pose_to_odom' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/gwcs/ros2_ws/src/pose_to_odom -DCMAKE_INSTALL_PREFIX=/home/gwcs/ros2_ws/install/pose_to_odom
+Invoking command in '/home/gwcs/ros2_ws/build/pose_to_odom': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/gwcs/ros2_ws/build/pose_to_odom -- -j6 -l6
+Invoked command in '/home/gwcs/ros2_ws/build/pose_to_odom' returned '2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/gwcs/ros2_ws/build/pose_to_odom -- -j6 -l6

@@ -1,0 +1,21 @@
+[ 50%] [32mBuilding CXX object CMakeFiles/pose_to_odom_node.dir/pose_to_odom_no_twist.cpp.o[0m
+[100%] [1m[32mLinking CXX executable pose_to_odom_node[0m
+[100%] Built target pose_to_odom_node
+-- Install configuration: ""
+-- Installing: /home/gwcs/ros2_ws/install/pose_to_odom/lib/pose_to_odom/pose_to_odom_node
+-- Set non-toolchain portion of runtime path of "/home/gwcs/ros2_ws/install/pose_to_odom/lib/pose_to_odom/pose_to_odom_node" to ""
+-- Up-to-date: /home/gwcs/ros2_ws/install/pose_to_odom/share/ament_index/resource_index/package_run_dependencies/pose_to_odom
+-- Up-to-date: /home/gwcs/ros2_ws/install/pose_to_odom/share/ament_index/resource_index/parent_prefix_path/pose_to_odom
+-- Up-to-date: /home/gwcs/ros2_ws/install/pose_to_odom/share/pose_to_odom/environment/ament_prefix_path.sh
+-- Up-to-date: /home/gwcs/ros2_ws/install/pose_to_odom/share/pose_to_odom/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/gwcs/ros2_ws/install/pose_to_odom/share/pose_to_odom/environment/path.sh
+-- Up-to-date: /home/gwcs/ros2_ws/install/pose_to_odom/share/pose_to_odom/environment/path.dsv
+-- Up-to-date: /home/gwcs/ros2_ws/install/pose_to_odom/share/pose_to_odom/local_setup.bash
+-- Up-to-date: /home/gwcs/ros2_ws/install/pose_to_odom/share/pose_to_odom/local_setup.sh
+-- Up-to-date: /home/gwcs/ros2_ws/install/pose_to_odom/share/pose_to_odom/local_setup.zsh
+-- Up-to-date: /home/gwcs/ros2_ws/install/pose_to_odom/share/pose_to_odom/local_setup.dsv
+-- Installing: /home/gwcs/ros2_ws/install/pose_to_odom/share/pose_to_odom/package.dsv
+-- Up-to-date: /home/gwcs/ros2_ws/install/pose_to_odom/share/ament_index/resource_index/packages/pose_to_odom
+-- Up-to-date: /home/gwcs/ros2_ws/install/pose_to_odom/share/pose_to_odom/cmake/pose_to_odomConfig.cmake
+-- Up-to-date: /home/gwcs/ros2_ws/install/pose_to_odom/share/pose_to_odom/cmake/pose_to_odomConfig-version.cmake
+-- Up-to-date: /home/gwcs/ros2_ws/install/pose_to_odom/share/pose_to_odom/package.xml

@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/gwcs/ros2_ws/build/pose_to_odom/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

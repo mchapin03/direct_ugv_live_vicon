@@ -1,0 +1,22 @@
+{
+  "tests": 2,
+  "name": "AllTests",
+  "testsuites": [
+    {
+      "name": "TestExecutor",
+      "tests": 2,
+      "testsuite": [
+        {
+          "name": "WriteVelocityPIDConstantsM1SerializationTest",
+          "file": "\/home\/gwcs\/ros2_ws\/src\/roboclaw_serial\/test\/interface_request_tests.hpp",
+          "line": 91
+        },
+        {
+          "name": "ReadEncoderCountersSerializationTest",
+          "file": "\/home\/gwcs\/ros2_ws\/src\/roboclaw_serial\/test\/interface_request_tests.hpp",
+          "line": 116
+        }
+      ]
+    }
+  ]
+}

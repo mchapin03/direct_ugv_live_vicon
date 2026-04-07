@@ -1,0 +1,22 @@
+[0.036s] Invoking command in '/home/gwcs/ros2_ws/build/pose_to_odom': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/gwcs/ros2_ws/build/pose_to_odom -- -j6 -l6
+[0.132s] [100%] Built target pose_to_odom_node
+[0.537s] Invoked command in '/home/gwcs/ros2_ws/build/pose_to_odom' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/gwcs/ros2_ws/build/pose_to_odom -- -j6 -l6
+[0.557s] Invoking command in '/home/gwcs/ros2_ws/build/pose_to_odom': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/gwcs/ros2_ws/build/pose_to_odom
+[0.574s] -- Install configuration: ""
+[0.576s] -- Up-to-date: /home/gwcs/ros2_ws/install/pose_to_odom/lib/pose_to_odom/pose_to_odom_node
+[0.577s] -- Up-to-date: /home/gwcs/ros2_ws/install/pose_to_odom/share/ament_index/resource_index/package_run_dependencies/pose_to_odom
+[0.579s] -- Up-to-date: /home/gwcs/ros2_ws/install/pose_to_odom/share/ament_index/resource_index/parent_prefix_path/pose_to_odom
+[0.580s] -- Up-to-date: /home/gwcs/ros2_ws/install/pose_to_odom/share/pose_to_odom/environment/ament_prefix_path.sh
+[0.580s] -- Up-to-date: /home/gwcs/ros2_ws/install/pose_to_odom/share/pose_to_odom/environment/ament_prefix_path.dsv
+[0.581s] -- Up-to-date: /home/gwcs/ros2_ws/install/pose_to_odom/share/pose_to_odom/environment/path.sh
+[0.582s] -- Up-to-date: /home/gwcs/ros2_ws/install/pose_to_odom/share/pose_to_odom/environment/path.dsv
+[0.582s] -- Up-to-date: /home/gwcs/ros2_ws/install/pose_to_odom/share/pose_to_odom/local_setup.bash
+[0.583s] -- Up-to-date: /home/gwcs/ros2_ws/install/pose_to_odom/share/pose_to_odom/local_setup.sh
+[0.583s] -- Up-to-date: /home/gwcs/ros2_ws/install/pose_to_odom/share/pose_to_odom/local_setup.zsh
+[0.584s] -- Up-to-date: /home/gwcs/ros2_ws/install/pose_to_odom/share/pose_to_odom/local_setup.dsv
+[0.584s] -- Installing: /home/gwcs/ros2_ws/install/pose_to_odom/share/pose_to_odom/package.dsv
+[0.586s] -- Up-to-date: /home/gwcs/ros2_ws/install/pose_to_odom/share/ament_index/resource_index/packages/pose_to_odom
+[0.588s] -- Up-to-date: /home/gwcs/ros2_ws/install/pose_to_odom/share/pose_to_odom/cmake/pose_to_odomConfig.cmake
+[0.588s] -- Up-to-date: /home/gwcs/ros2_ws/install/pose_to_odom/share/pose_to_odom/cmake/pose_to_odomConfig-version.cmake
+[0.588s] -- Up-to-date: /home/gwcs/ros2_ws/install/pose_to_odom/share/pose_to_odom/package.xml
+[0.655s] Invoked command in '/home/gwcs/ros2_ws/build/pose_to_odom' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/gwcs/ros2_ws/build/pose_to_odom

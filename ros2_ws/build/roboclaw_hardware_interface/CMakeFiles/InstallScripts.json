@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/gwcs/ros2_ws/build/roboclaw_hardware_interface/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
