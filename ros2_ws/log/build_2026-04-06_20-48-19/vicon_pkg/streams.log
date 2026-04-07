@@ -1,0 +1,22 @@
+[1.577s] Invoking command in '/home/gwcs/ros2_ws/src/vicon_pkg': PYTHONPATH=/home/gwcs/ros2_ws/build/vicon_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/gwcs/ros2_ws/install/vicon_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/vicon_pkg build --build-base /home/gwcs/ros2_ws/build/vicon_pkg/build install --record /home/gwcs/ros2_ws/build/vicon_pkg/install.log --single-version-externally-managed install_data
+[2.094s] running egg_info
+[2.097s] writing ../../build/vicon_pkg/vicon_pkg.egg-info/PKG-INFO
+[2.098s] writing dependency_links to ../../build/vicon_pkg/vicon_pkg.egg-info/dependency_links.txt
+[2.098s] writing entry points to ../../build/vicon_pkg/vicon_pkg.egg-info/entry_points.txt
+[2.099s] writing requirements to ../../build/vicon_pkg/vicon_pkg.egg-info/requires.txt
+[2.100s] writing top-level names to ../../build/vicon_pkg/vicon_pkg.egg-info/top_level.txt
+[2.105s] reading manifest file '../../build/vicon_pkg/vicon_pkg.egg-info/SOURCES.txt'
+[2.106s] adding license file 'LICENSE'
+[2.107s] writing manifest file '../../build/vicon_pkg/vicon_pkg.egg-info/SOURCES.txt'
+[2.108s] running build
+[2.108s] running build_py
+[2.109s] running install
+[2.110s] running install_lib
+[2.113s] running install_data
+[2.113s] running install_egg_info
+[2.117s] removing '/home/gwcs/ros2_ws/install/vicon_pkg/lib/python3.10/site-packages/vicon_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[2.119s] Copying ../../build/vicon_pkg/vicon_pkg.egg-info to /home/gwcs/ros2_ws/install/vicon_pkg/lib/python3.10/site-packages/vicon_pkg-0.0.0-py3.10.egg-info
+[2.121s] running install_scripts
+[2.169s] Installing vicon_node script to /home/gwcs/ros2_ws/install/vicon_pkg/lib/vicon_pkg
+[2.171s] writing list of installed files to '/home/gwcs/ros2_ws/build/vicon_pkg/install.log'
+[2.268s] Invoked command in '/home/gwcs/ros2_ws/src/vicon_pkg' returned '0': PYTHONPATH=/home/gwcs/ros2_ws/build/vicon_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/gwcs/ros2_ws/install/vicon_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/vicon_pkg build --build-base /home/gwcs/ros2_ws/build/vicon_pkg/build install --record /home/gwcs/ros2_ws/build/vicon_pkg/install.log --single-version-externally-managed install_data
